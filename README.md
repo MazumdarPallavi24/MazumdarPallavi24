@@ -2,8 +2,8 @@
 ## 🚀 About Me
 I'm a **Marketing Data Analyst** with 1+ year of experience delivering actionable insights and building scalable, data-driven solutions. I specialize in leveraging analytics to optimize campaigns and decision-making in Public Policy and Health Insurance sectors.
 
-- 🔭 I'm currently working on advanced analytics projects in health insurance and marketing optimization
-- 🌱 I'm continuously expanding my expertise in machine learning and advanced data visualization
+- 🔭 I'm currently working on Persona developement and analysis in health insurance and marketing optimization
+- 🌱 I'm currently expanding my learning in databases, data modelling , data base organization through Data Building tools , Azure Data fundaments
 - 💼 Experience across **Insurance**, **Public Policy**, and **Healthcare** domains
 - 👯 I'm looking to collaborate on data analytics and business intelligence projects
 - 💬 Ask me about **customer segmentation**, **persona analysis**, and **marketing analytics**
@@ -34,8 +34,8 @@ I'm a **Marketing Data Analyst** with 1+ year of experience delivering actionabl
 ## 💼 Professional Experience
 
 ### 🏢 **Ditto Insurance** - Marketing Data Analyst *(May 2025 – August 2025)*
-- Analyzed **150,000+ data points** for optimal health insurance customer segmentation
-- Processed **29,769+ term insurance leads** to identify high-conversion opportunities
+- Analyzed large scale data for optimal health insurance customer segmentation
+- Processed 2 years worth of lead data to identify high-conversion opportunities
 - Delivered weekly marketing performance reports driving strategic decision-making
 
 ### 🗳️ **Indian Political Action Committee (I-PAC)** - Fellow *(March 2024 – June 2024)*
