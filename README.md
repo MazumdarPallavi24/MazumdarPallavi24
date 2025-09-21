@@ -2,14 +2,13 @@
 ## 🚀 About Me
 I'm a **Marketing Data Analyst** with 1+ year of experience delivering actionable insights and building scalable, data-driven solutions. I specialize in leveraging analytics to optimize campaigns and decision-making in Public Policy and Health Insurance sectors.
 
-- 🔭 I'm currently working on Persona developement and analysis in health insurance and marketing optimization
-- 🌱 I'm currently expanding my learning in databases, data modelling , data base organization through Data Building tools , Azure Data fundaments
-- 💼 Experience across **Insurance**, **Public Policy**, and **Healthcare** domains
-- 👯 I'm looking to collaborate on data analytics and business intelligence projects
-- 💬 Ask me about **customer segmentation**, **persona analysis**, and **marketing analytics**
+- 🔭 I'm currently working on Persona developement and analysis in health insurance and marketing optimization.
+- 🌱 I'm currently expanding my learning in databases, data modelling , data base organization through Data Building tools and, Azure Data fundamentals.
+- 💼 Experience across **Insurance**, **Public Policy**, and **Healthcare** domains.
+- 👯 I'm looking to collaborate on data analytics and business intelligence projects.
+- 💬 Ask me about **customer segmentation**, **persona analysis**, and **marketing analytics**.
 - 📫 How to reach me: mazumdar.pallavi4@gmail.com
 - 📍 Based in Bangalore, India
-- ⚡ Fun fact: I've analyzed 150,000+ data points to optimize health insurance targeting strategies!
 
 ## 🛠️ Tech Stack
 
